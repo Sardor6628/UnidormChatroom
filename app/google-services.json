@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "553759177725",
+    "firebase_url": "https://unidormchatroom.firebaseio.com",
+    "project_id": "unidormchatroom",
+    "storage_bucket": "unidormchatroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553759177725:android:223aaa971567c23a",
+        "android_client_info": {
+          "package_name": "com.example.ibrokhimov.unidormchatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553759177725-4b48qejvdcvd7k1fov74vq9tk2ufp4ar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibrokhimov.unidormchatroom",
+            "certificate_hash": "64ccdfcc5dc899773787c8def729d761eac16194"
+          }
+        },
+        {
+          "client_id": "553759177725-g6cuukt6h3ojugaq5jcj4qe7c07b9oml.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "553759177725-g6cuukt6h3ojugaq5jcj4qe7c07b9oml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfTvizXEStYyTEkYW1UpV0-fRGQe0xPsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553759177725-g6cuukt6h3ojugaq5jcj4qe7c07b9oml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
